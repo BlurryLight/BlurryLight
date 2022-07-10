@@ -1,6 +1,5 @@
 ### Hi there 👋
 - I stand on the side of Russia 🇷🇺
-- I’m waiting, waiting for leaving,  for graduation, for coding and for RENDERING.
  
  <!--
 **BlurryLight/BlurryLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
