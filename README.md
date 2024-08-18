@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I stand on the side of Russia 🇷🇺
+- バカナ、絶対バカナ
  
  <!--
 **BlurryLight/BlurryLight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
